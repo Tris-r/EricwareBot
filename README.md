@@ -1,2 +1,0 @@
-# EricwareBot
-Ericware bot
