@@ -39,5 +39,4 @@ module.exports = (robot) ->
 #To Do
 #
 # 1. Can only matches multiple instances (global match /g) but msg.send returns all matches in one   
-# 2. Links to Client orgs ??
 #                    
