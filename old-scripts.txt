@@ -1,0 +1,5 @@
+"hubot-google-translate" - broke,
+"hubot-pugme", - broke
+hubot-humanity - Cards against humanity 
+hubot-wikipeadia - hubot-wiki is more concise
+humbot-memo - reminders or DM self
