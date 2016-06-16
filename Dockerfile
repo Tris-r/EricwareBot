@@ -1,3 +1,1 @@
-    "scripts": {
-        "start": "./bin/hubot --adapter slack"
-    }
+FROM node:4.2-onbuild
