@@ -1,0 +1,11 @@
+name: EricWare Bot
+description: Intelerad bot 
+config:
+  - name: OPTION
+    friendly_name: Ericware Bot
+    info: Tracks EW, EWF, BZ and KB mentions and returns link
+    global: true
+slackscopes:
+  - bot
+  - commands
+  - incoming-webhook
